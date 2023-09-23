@@ -36,5 +36,6 @@ Aprendimos que:
 8. Por último, en el gráfico de comparar segmento de mercado con la tarifa promedio podemos visualizar que el segmento de mercado con mayor variabilidad es el segmento directo. Esto significa que sus tarifas promedio diarias son más dispersas.
 
 
-
+# Licencia
+António, N., De Almeida, A., & Nunes, L. (2019). Hotel booking demand datasets. Data in Brief,22, 41-49. https://doi.org/10.1016/j.dib.2018.11.126 
 
