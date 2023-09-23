@@ -25,7 +25,7 @@ prefiere la gente?
 
 ## Result
 
-We learned that
+Aprendimos que:
 1. A lo largo de los años se ha realizado un total de 46,228 reservas en hoteles de ciudad y 28,938 reservas en hoteles resort. Esto total se puede visualizar en el histograma de reservas de hoteles. Basándonos en estos datos podemos afirmar que los usuarios prefieren los hoteles de ciudad.
 2. Asimismo, si vemos la demanda de hoteles entre los años del 2015 y el 2017 se evidencia un pico en el 2016. Sin embargo, en el 2017 la demanda disminuyó considerablemente. Entonces no podemos afirmar que aumenta la demanda en el tiempo.
 3. Al analizar la tabla de reservas totales de cada mes podemos afirmar que los meses de temporada alta son los meses de Julio, Agosto y Mayo. Debido a que los datos están basados en Portugal  los meses de Julio y Agosto son de verano y hay más turismo. Además, el mes de Mayo también es de buen clima y por ende hay oportunidad de hacer turismo. Por otro lado, el mes que se realizó la mayor cantidad de cancelaciones fue Enero.
