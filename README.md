@@ -8,6 +8,12 @@ herramienta de software.
 2.  Estrada Fernández, Sara Gabriela (U20211A109)
 3.  Mendoza Manrique, Emily (U202122644)
 4.  Tapia Pescoran, Andrea Katherina (U202120058)
+
+# Dataset 
+En el presente trabajo, se pidió realizar el análisis del conjunto de datos “Hotel booking demand” publicado en el volumen 22 de la revista “Data in Brief” por parte de Nuno Antonio, Ana de Almedia y Luis Nunes en febrero del 2019 en Países Bajos.
+
+Los datos completos nos muestran dos tipos de hoteles: un hotel resort (H1) y un hotel urbano, o de ciudad, (H2). Los datos de ambos hoteles tienen una estructura idéntica y abarcan reservas de hotel realizadas desde el 1 de julio de 2015 hasta el 31 de agosto de 2017. En este conjunto de datos, se incluyen tanto las reservas que fueron concretadas como las que fueron canceladas.
+
 ## Table of Content
 - [Motivation](#Motivation)
 - [Result](#Result)
