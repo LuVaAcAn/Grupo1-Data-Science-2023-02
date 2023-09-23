@@ -9,14 +9,11 @@ herramienta de software.
 3.  Mendoza Manrique, Emily (U202122644)
 4.  Tapia Pescoran, Andrea Katherina (U202120058)
 
-# Dataset 
-En el presente trabajo, se pidió realizar el análisis del conjunto de datos “Hotel booking demand” publicado en el volumen 22 de la revista “Data in Brief” por parte de Nuno Antonio, Ana de Almedia y Luis Nunes en febrero del 2019 en Países Bajos.
-
-Los datos completos nos muestran dos tipos de hoteles: un hotel resort (H1) y un hotel urbano, o de ciudad, (H2). Los datos de ambos hoteles tienen una estructura idéntica y abarcan reservas de hotel realizadas desde el 1 de julio de 2015 hasta el 31 de agosto de 2017. En este conjunto de datos, se incluyen tanto las reservas que fueron concretadas como las que fueron canceladas.
-
 ## Table of Content
 - [Motivation](#Motivation)
+- [Dataset](#Dataset)
 - [Result](#Result)
+- [Licencia](#Licencia)
   
 ## Motivation
 ### Responder las siguientes preguntas:
@@ -28,6 +25,12 @@ prefiere la gente?
 5. ¿Cuántas reservas incluyen niños y/o bebes?
 6. ¿Es importante contar con espacios de estacionamiento?
 7. ¿En qué meses del año se producen más cancelaciones de reservas?
+   
+## Dataset
+
+En el presente trabajo, se pidió realizar el análisis del conjunto de datos “Hotel booking demand” publicado en el volumen 22 de la revista “Data in Brief” por parte de Nuno Antonio, Ana de Almedia y Luis Nunes en febrero del 2019 en Países Bajos.
+
+Los datos completos nos muestran dos tipos de hoteles: un hotel resort (H1) y un hotel urbano, o de ciudad, (H2). Los datos de ambos hoteles tienen una estructura idéntica y abarcan reservas de hotel realizadas desde el 1 de julio de 2015 hasta el 31 de agosto de 2017. En este conjunto de datos, se incluyen tanto las reservas que fueron concretadas como las que fueron canceladas.
 
 ## Result
 
@@ -41,7 +44,7 @@ Aprendimos que:
 7. Además, mostramos en un gráfico cuánto tiempo de espera hay entre el tiempo de reserva del cliente y la fecha de llegada. En el gráfico podemos observar que la mayoría de clientes tienen tiempo de espera entre 0  a 200 segundos.
 8. Por último, en el gráfico de comparar segmento de mercado con la tarifa promedio podemos visualizar que el segmento de mercado con mayor variabilidad es el segmento directo. Esto significa que sus tarifas promedio diarias son más dispersas.
 
+## Licencia
 
-# Licencia
 António, N., De Almeida, A., & Nunes, L. (2019). Hotel booking demand datasets. Data in Brief,22, 41-49. https://doi.org/10.1016/j.dib.2018.11.126 
 
