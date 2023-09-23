@@ -13,7 +13,7 @@ herramienta de software.
 - [Motivation](#Motivation)
 - [Dataset](#Dataset)
 - [Result](#Result)
-- [Licencia](#Licencia)
+- [License](#License)
   
 ## Motivation
 ### Responder las siguientes preguntas:
@@ -44,7 +44,7 @@ Aprendimos que:
 7. Además, mostramos en un gráfico cuánto tiempo de espera hay entre el tiempo de reserva del cliente y la fecha de llegada. En el gráfico podemos observar que la mayoría de clientes tienen tiempo de espera entre 0  a 200 segundos.
 8. Por último, en el gráfico de comparar segmento de mercado con la tarifa promedio podemos visualizar que el segmento de mercado con mayor variabilidad es el segmento directo. Esto significa que sus tarifas promedio diarias son más dispersas.
 
-## Licencia
+## License
 
 António, N., De Almeida, A., & Nunes, L. (2019). Hotel booking demand datasets. Data in Brief,22, 41-49. https://doi.org/10.1016/j.dib.2018.11.126 
 
